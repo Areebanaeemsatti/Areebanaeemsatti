@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on AI-based projects, especially those involving NLP, computer vision, or predictive modeling  
 - 📫 How to reach me:  
   - Email: areebanaeemsatti@example.com  
-  - LinkedIn: [linkedin.com/in/areebanaeemsatti](https://linkedin.com/in/areebanaeemsatti)  
+  - LinkedIn: [linkedin.com/in/areebanaeemsatti](https://linkedin.com/in/areebanaeemsatti)
+  - portfolio(https://areebanaeem.my.canva.site/areeba-s-portfolio)
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I once turned a set of inspirational quotes into a fully searchable semantic engine using SBERT and FAISS!
 
