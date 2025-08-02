@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
   - Email: areebanaeemsatti@example.com  
   - LinkedIn: [linkedin.com/in/areebanaeemsatti](https://linkedin.com/in/areebanaeemsatti)
-  - portfolio(https://areebanaeem.my.canva.site/areeba-s-portfolio)
+  - portfolio([https://areebanaeem.my.canva.site/areeba-s-portfolio](https://areebanaeem.my.canva.site/copy-of-professional-portfolio-of-areeba-naeem-satti))
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I once turned a set of inspirational quotes into a fully searchable semantic engine using SBERT and FAISS!
 
