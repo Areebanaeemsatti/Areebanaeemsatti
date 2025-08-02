@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced AI techniques, web development with Flask, and data visualization using Dash and Plotly  
 - 💞️ I’m looking to collaborate on AI-based projects, especially those involving NLP, computer vision, or predictive modeling  
 - 📫 How to reach me:  
-  - Email: areebanaeemsatti@example.com  
+  - Email: naeemsattiareeba@gmail.com  
   - LinkedIn: [linkedin.com/in/areebanaeemsatti](https://linkedin.com/in/areebanaeemsatti)
   - portfolio([https://areebanaeem.my.canva.site/areeba-s-portfolio](https://areebanaeem.my.canva.site/copy-of-professional-portfolio-of-areeba-naeem-satti))
 - 😄 Pronouns: She/Her  
