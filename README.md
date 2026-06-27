@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
+Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad**. I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semeste
 | 🧠 Strong in | **ML/DL · Computer Vision · NLP** |
 | 📊 Data storytelling | **Power BI · Python · Plotly** |
 | 🔗 Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
-| 📜 Published | **2 Research Papers** |
+
 
 ---
 
