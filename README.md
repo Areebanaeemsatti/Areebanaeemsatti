@@ -1,119 +1,192 @@
-<h1 align="center">Hi there, I'm Areeba Naeem Satti 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>AI Student · Builder · Researcher</em><br/>
-  🎓 BS Artificial Intelligence @ Air University, Islamabad (6th Semester)<br/>
-  🔬 Machine Learning · Computer Vision · Generative AI · NLP
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Areeba%20Naeem%20Satti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descColor=adbac7" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=areeba-naeem-satti&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-blue?style=flat&logo=google-maps" />
-</p>
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+intelligent+systems+that+actually+work;ML+%7C+LLMs+%7C+Computer+Vision+%7C+NLP)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=areeba-naeem-satti&color=58a6ff&style=flat-square&label=Profile+Views)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-238636?style=flat-square&logo=github&logoColor=white)
+![Location](https://img.shields.io/badge/Islamabad%2C%20Pakistan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
+![Student](https://img.shields.io/badge/BS%20Artificial%20Intelligence-6e40c9?style=flat-square&logo=academia&logoColor=white)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Areeba**, an AI student with hands-on experience building intelligent systems — from LLM-powered agents to computer vision pipelines. I've interned twice at **NASTP (National Aerospace Science & Technology Park)**, working on real-world AI applications in high-tech R&D environments.
+Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
 
-- 🤖 Currently exploring: **Generative AI · RAG · LLM Agents · MCP**
-- 🧠 Experienced in: **ML/DL pipelines · Computer Vision · NLP**
-- 📊 Love turning data into insights with **Power BI & Python**
-- 🔁 Believer in building things that actually work, not just look good
-
----
-
-## 💼 Experience
-
-**AI Intern — NASTP Alpha 14, Rawalpindi** *(July 2025 – Aug 2025)*  
-Working on real-world AI applications in a high-tech R&D environment. Contributing to ML/DL model development, data preprocessing, and automation tools using Python.
-
-**AI Intern — NASTP Alpha 3, Rawalpindi** *(Aug 2024 – Sep 2024)*  
-6-week internship focused on machine learning — supervised & unsupervised learning, predictive analytics, real-world project contributions.
+| | |
+|---|---|
+| 🤖 Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
+| 🧠 Strong in | **ML/DL · Computer Vision · NLP** |
+| 📊 Data storytelling | **Power BI · Python · Plotly** |
+| 🔗 Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
+| 📜 Published | **2 Research Papers** |
 
 ---
 
-## 🛠️ Tech Stack
-
-**AI / ML & Generative AI**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Data & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
-
-**Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <p align="center">
 
-[![Emotia AI Diary](https://img.shields.io/badge/😊%20Emotia:%20AI%20Diary-Multi--Label%20Emotion%20Classifier-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/areeba-naeem-satti/emotia)
-[![Tumor Detection](https://img.shields.io/badge/🏥%20Tumor%20Detection%20Pipeline-YOLOv8%20Computer%20Vision-EE4C2C?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/areeba-naeem-satti/tumor-detection)
+[![Tumor Detection](https://img.shields.io/badge/🏥_Tumor_Detection_Pipeline-YOLOv8_%2B_OpenCV_%2B_Python-1f6feb?style=for-the-badge)](https://github.com/areeba-naeem-satti/tumor-detection)&nbsp;
+[![Emotia](https://img.shields.io/badge/😊_Emotia:_AI_Diary-Multi--Label_Emotion_Classifier-6e40c9?style=for-the-badge)](https://github.com/areeba-naeem-satti/emotia)
 
-[![Quote Explorer](https://img.shields.io/badge/🔍%20Quote%20Explorer-SBERT%20+%20FAISS%20Semantic%20Search-0077B5?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://github.com/areeba-naeem-satti/quote-explorer)
-[![GitHub Recommender](https://img.shields.io/badge/🧠%20GitHub%20Recommender-Neo4j%20+%20LLM%20Reasoning-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://github.com/areeba-naeem-satti/github-recommender)
+[![Quote Explorer](https://img.shields.io/badge/🔍_Quote_Explorer-SBERT_%2B_FAISS_Semantic_Search-238636?style=for-the-badge)](https://github.com/areeba-naeem-satti/quote-explorer)&nbsp;
+[![GitHub Recommender](https://img.shields.io/badge/🧠_GitHub_Recommender-Neo4j_%2B_LLMs_%2B_LangChain-bd561d?style=for-the-badge)](https://github.com/areeba-naeem-satti/github-recommender)
 
-[![Dev Productivity Predictor](https://img.shields.io/badge/📈%20Dev%20Productivity%20Predictor-ML%20+%20Gradio-F7931E?style=for-the-badge&logo=python&logoColor=white)](https://github.com/areeba-naeem-satti/productivity-predictor)
-[![FIFA Analytics](https://img.shields.io/badge/⚽%20FIFA%20World%20Cup%20Analytics-Python%20+%20Power%20BI%20+%20Research%20Paper-009688?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/areeba-naeem-satti/fifa-analytics)
+[![Dev Predictor](https://img.shields.io/badge/📈_Dev_Productivity_Predictor-ML_%2B_Gradio-ec6cb9?style=for-the-badge)](https://github.com/areeba-naeem-satti/productivity-predictor)&nbsp;
+[![FIFA Analytics](https://img.shields.io/badge/⚽_FIFA_World_Cup_Analytics-Python_%2B_Power_BI_%2B_Paper-39d353?style=for-the-badge)](https://github.com/areeba-naeem-satti/fifa-analytics)
 
-[![N-Gram LM](https://img.shields.io/badge/💬%20N--Gram%20Language%20Model-Statistical%20NLP%20%26%20Next--Word%20Prediction-4CAF50?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/areeba-naeem-satti/ngram-lm)
-[![Loan Targeting](https://img.shields.io/badge/🏦%20Loan%20Targeting%20Model-Classification%20%26%20Predictive%20ML-F2C811?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://github.com/areeba-naeem-satti/loan-targeting)
+[![N-Gram LM](https://img.shields.io/badge/💬_N--Gram_Language_Model-Statistical_NLP_%2B_Prediction-f0883e?style=for-the-badge)](https://github.com/areeba-naeem-satti/ngram-lm)&nbsp;
+[![Loan Model](https://img.shields.io/badge/🏦_Loan_Targeting_Model-Classification_%2B_Predictive_ML-58a6ff?style=for-the-badge)](https://github.com/areeba-naeem-satti/loan-targeting)
 
-[![Olympics Analysis](https://img.shields.io/badge/🥇%202024%20Olympics%20Analysis-Data%20Viz%20+%20Python%20+%20Power%20BI-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/areeba-naeem-satti/olympics-analysis)
-[![Visualization Orchestrator](https://img.shields.io/badge/📊%20Visualization%20Orchestrator-Dash%20+%20Plotly%20Multi--Chart%20App-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/areeba-naeem-satti/viz-orchestrator)
+[![Olympics](https://img.shields.io/badge/🥇_2024_Olympics_Analysis-Data_Viz_%2B_Python_%2B_Power_BI-bc8cff?style=for-the-badge)](https://github.com/areeba-naeem-satti/olympics-analysis)&nbsp;
+[![Viz Orchestrator](https://img.shields.io/badge/📊_Visualization_Orchestrator-Dash_%2B_Plotly_Multi--Chart-3fb950?style=for-the-badge)](https://github.com/areeba-naeem-satti/viz-orchestrator)
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areeba-naeem-satti&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-naeem-satti&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+**AI / ML**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-naeem-satti&theme=tokyonight&hide_border=true" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+
+**Generative AI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6e40c9?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0077B5?style=flat-square&logoColor=white)
+![SBERT](https://img.shields.io/badge/SBERT-238636?style=flat-square&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Databases & Tools**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+---
+
+## 📊 Skills Proficiency
+
+```
+Machine Learning    ████████████████████░░  90%
+Python              █████████████████████░░  92%
+Data Analysis       ████████████████████░░░  85%
+Deep Learning       ███████████████████░░░░  82%
+Generative AI       ████████████████████░░░  80%
+Computer Vision     ██████████████████░░░░░  78%
+Power BI / Viz      ████████████████░░░░░░░  77%
+NLP                 ███████████████░░░░░░░░  75%
+```
+
+---
+
+## 🗺️ Roadmap & Directions
+
+```
+✅  ML & DL Foundations
+    Supervised/unsupervised learning, model evaluation,
+    feature engineering, classification & regression
+
+✅  Computer Vision Pipelines
+    YOLOv8 object detection, medical image preprocessing,
+    CV feature extraction, OpenCV workflows
+
+✅  NLP & Semantic Search
+    N-gram models, BiLSTM, SBERT embeddings,
+    FAISS vector search, multilingual classification
+
+🔵  Generative AI & LLM Agents          ← Currently here
+    RAG pipelines, LangChain agents, OpenAI APIs,
+    knowledge graphs with Neo4j, MCP fundamentals
+
+⬜  MLOps & Deployment                   ← Next
+    Model serving, Docker, FastAPI, CI/CD for ML,
+    monitoring & explainability
+
+⬜  Research & Publications
+    Contribute to AI research, publish papers,
+    explore explainable ML & agentic systems at scale
+```
+
+---
+
+## 📈 GitHub Activity & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=areeba-naeem-satti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=adbac7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-naeem-satti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-naeem-satti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=bc8cff" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=areeba-naeem-satti&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-naeem-satti&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/areeba-naeem-satti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naeemsattiareeba@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/areeba-naeem-satti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-areeba--naeem--satti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/areeba-naeem-satti)
+[![Gmail](https://img.shields.io/badge/Gmail-naeemsattiareeba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemsattiareeba@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-areeba--naeem--satti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areeba-naeem-satti)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Building AI that helps, not just impresses."</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+
+*"Building AI that helps, not just impresses."*
+
+</div>
