@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:ff00ff&height=200&section=header&text=Areeba%20Naeem%20Satti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descColor=adbac7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001a00,70:000d1a,100:0d0021&height=220&section=header&text=Areeba%20Naeem%20Satti&fontSize=44&fontColor=00ff41&animation=fadeIn&fontAlignY=40&stroke=00ff41&strokeWidth=2&desc=AI%20Student%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descColor=00ffff&descSize=16" width="100%"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad**. I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
+Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
 
 | | |
 |---|---|
@@ -31,7 +31,7 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad**. I've comple
 | 🧠 Strong in | **ML/DL · Computer Vision · NLP** |
 | 📊 Data storytelling | **Power BI · Python · Plotly** |
 | 🔗 Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
-
+| 📜 Published | **2 Research Papers** |
 
 ---
 
@@ -185,7 +185,7 @@ NLP                 ███████████████░░░░░
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:ff00ff&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0021,50:001a00,100:000000&height=100&section=footer" width="100%"/>
 
 *"Building AI that helps, not just impresses."*
 
