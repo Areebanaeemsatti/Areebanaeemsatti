@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Areeba%20Naeem%20Satti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descColor=adbac7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:ff00ff&height=200&section=header&text=Areeba%20Naeem%20Satti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descColor=adbac7" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=areeba-naeem-satti&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Areebanaeemsatti&color=00ff41&style=flat-square&label=Profile+Views)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-238636?style=flat-square&logo=github&logoColor=white)
 ![Location](https://img.shields.io/badge/Islamabad%2C%20Pakistan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
 ![Student](https://img.shields.io/badge/BS%20Artificial%20Intelligence-6e40c9?style=flat-square&logo=academia&logoColor=white)
@@ -39,20 +39,20 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semeste
 
 <p align="center">
 
-[![Tumor Detection](https://img.shields.io/badge/🏥_Tumor_Detection_Pipeline-YOLOv8_%2B_OpenCV_%2B_Python-1f6feb?style=for-the-badge)](https://github.com/areeba-naeem-satti/tumor-detection)&nbsp;
-[![Emotia](https://img.shields.io/badge/😊_Emotia:_AI_Diary-Multi--Label_Emotion_Classifier-6e40c9?style=for-the-badge)](https://github.com/areeba-naeem-satti/emotia)
+[![Tumor Detection](https://img.shields.io/badge/🏥_Tumor_Detection_Pipeline-YOLOv8_%2B_OpenCV_%2B_Python-1f6feb?style=for-the-badge)](https://github.com/Areebanaeemsatti/tumor-detection)&nbsp;
+[![Emotia](https://img.shields.io/badge/😊_Emotia:_AI_Diary-Multi--Label_Emotion_Classifier-6e40c9?style=for-the-badge)](https://github.com/Areebanaeemsatti/emotia)
 
-[![Quote Explorer](https://img.shields.io/badge/🔍_Quote_Explorer-SBERT_%2B_FAISS_Semantic_Search-238636?style=for-the-badge)](https://github.com/areeba-naeem-satti/quote-explorer)&nbsp;
-[![GitHub Recommender](https://img.shields.io/badge/🧠_GitHub_Recommender-Neo4j_%2B_LLMs_%2B_LangChain-bd561d?style=for-the-badge)](https://github.com/areeba-naeem-satti/github-recommender)
+[![Quote Explorer](https://img.shields.io/badge/🔍_Quote_Explorer-SBERT_%2B_FAISS_Semantic_Search-238636?style=for-the-badge)](https://github.com/Areebanaeemsatti/quote-explorer)&nbsp;
+[![GitHub Recommender](https://img.shields.io/badge/🧠_GitHub_Recommender-Neo4j_%2B_LLMs_%2B_LangChain-bd561d?style=for-the-badge)](https://github.com/Areebanaeemsatti/github-recommender)
 
-[![Dev Predictor](https://img.shields.io/badge/📈_Dev_Productivity_Predictor-ML_%2B_Gradio-ec6cb9?style=for-the-badge)](https://github.com/areeba-naeem-satti/productivity-predictor)&nbsp;
-[![FIFA Analytics](https://img.shields.io/badge/⚽_FIFA_World_Cup_Analytics-Python_%2B_Power_BI_%2B_Paper-39d353?style=for-the-badge)](https://github.com/areeba-naeem-satti/fifa-analytics)
+[![Dev Predictor](https://img.shields.io/badge/📈_Dev_Productivity_Predictor-ML_%2B_Gradio-ec6cb9?style=for-the-badge)](https://github.com/Areebanaeemsatti/productivity-predictor)&nbsp;
+[![FIFA Analytics](https://img.shields.io/badge/⚽_FIFA_World_Cup_Analytics-Python_%2B_Power_BI_%2B_Paper-39d353?style=for-the-badge)](https://github.com/Areebanaeemsatti/fifa-analytics)
 
-[![N-Gram LM](https://img.shields.io/badge/💬_N--Gram_Language_Model-Statistical_NLP_%2B_Prediction-f0883e?style=for-the-badge)](https://github.com/areeba-naeem-satti/ngram-lm)&nbsp;
-[![Loan Model](https://img.shields.io/badge/🏦_Loan_Targeting_Model-Classification_%2B_Predictive_ML-58a6ff?style=for-the-badge)](https://github.com/areeba-naeem-satti/loan-targeting)
+[![N-Gram LM](https://img.shields.io/badge/💬_N--Gram_Language_Model-Statistical_NLP_%2B_Prediction-f0883e?style=for-the-badge)](https://github.com/Areebanaeemsatti/ngram-lm)&nbsp;
+[![Loan Model](https://img.shields.io/badge/🏦_Loan_Targeting_Model-Classification_%2B_Predictive_ML-58a6ff?style=for-the-badge)](https://github.com/Areebanaeemsatti/loan-targeting)
 
-[![Olympics](https://img.shields.io/badge/🥇_2024_Olympics_Analysis-Data_Viz_%2B_Python_%2B_Power_BI-bc8cff?style=for-the-badge)](https://github.com/areeba-naeem-satti/olympics-analysis)&nbsp;
-[![Viz Orchestrator](https://img.shields.io/badge/📊_Visualization_Orchestrator-Dash_%2B_Plotly_Multi--Chart-3fb950?style=for-the-badge)](https://github.com/areeba-naeem-satti/viz-orchestrator)
+[![Olympics](https://img.shields.io/badge/🥇_2024_Olympics_Analysis-Data_Viz_%2B_Python_%2B_Power_BI-bc8cff?style=for-the-badge)](https://github.com/Areebanaeemsatti/olympics-analysis)&nbsp;
+[![Viz Orchestrator](https://img.shields.io/badge/📊_Visualization_Orchestrator-Dash_%2B_Plotly_Multi--Chart-3fb950?style=for-the-badge)](https://github.com/Areebanaeemsatti/viz-orchestrator)
 
 </p>
 
@@ -151,21 +151,21 @@ NLP                 ███████████████░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=areeba-naeem-satti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=adbac7" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-naeem-satti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Areebanaeemsatti&show_icons=true&theme=neon&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areebanaeemsatti&layout=compact&theme=neon&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ffff" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=areeba-naeem-satti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=bc8cff" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=areeba-naeem-satti&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areebanaeemsatti&theme=neon&hide_border=true&background=000000&ring=00ff41&fire=ff00ff&currStreakLabel=00ffff" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Areebanaeemsatti&theme=neon&no-frame=true&no-bg=true&row=1&column=4" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-naeem-satti&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areebanaeemsatti&theme=neon&bg_color=000000&color=00ffff&line=00ff41&point=ff00ff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -175,9 +175,9 @@ NLP                 ███████████████░░░░░
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-areeba--naeem--satti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/areeba-naeem-satti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-areeba--naeem--satti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Areebanaeemsatti)
 [![Gmail](https://img.shields.io/badge/Gmail-naeemsattiareeba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemsattiareeba@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-areeba--naeem--satti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areeba-naeem-satti)
+[![GitHub](https://img.shields.io/badge/GitHub-areeba--naeem--satti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areebanaeemsatti)
 
 </div>
 
@@ -185,7 +185,7 @@ NLP                 ███████████████░░░░░
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:ff00ff&height=100&section=footer" width="100%"/>
 
 *"Building AI that helps, not just impresses."*
 
