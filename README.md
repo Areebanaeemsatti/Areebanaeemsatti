@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>AI Student · Builder · Researcher</em><br/>
-  🎓 BS Artificial Intelligence @ Air University, Islamabad <br/>
+  🎓 BS Artificial Intelligence @ Air University, Islamabad (6th Semester)<br/>
   🔬 Machine Learning · Computer Vision · Generative AI · NLP
 </p>
 
@@ -62,39 +62,26 @@ Working on real-world AI applications in a high-tech R&D environment. Contributi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 😊 Emotia: AI Diary
-> AI-based multi-label text classification model that analyzes diary-style user inputs for emotion detection.  
-> **Stack:** Python · Deep Learning · NLP
+<p align="center">
 
-### 🏥 Medical Tumor Detection & Classification Pipeline
-> YOLOv8-based computer vision system for tumor localization and classification using medical image preprocessing and feature extraction.  
-> **Stack:** YOLOv8 · OpenCV · Python
+[![Emotia AI Diary](https://img.shields.io/badge/😊%20Emotia:%20AI%20Diary-Multi--Label%20Emotion%20Classifier-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/areeba-naeem-satti/emotia)
+[![Tumor Detection](https://img.shields.io/badge/🏥%20Tumor%20Detection%20Pipeline-YOLOv8%20Computer%20Vision-EE4C2C?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/areeba-naeem-satti/tumor-detection)
 
-### 🔍 Quote Explorer
-> AI-powered semantic quote search engine — retrieves quotes by meaning, not just keywords.  
-> **Stack:** SBERT · FAISS · Gradio · Python
+[![Quote Explorer](https://img.shields.io/badge/🔍%20Quote%20Explorer-SBERT%20+%20FAISS%20Semantic%20Search-0077B5?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://github.com/areeba-naeem-satti/quote-explorer)
+[![GitHub Recommender](https://img.shields.io/badge/🧠%20GitHub%20Recommender-Neo4j%20+%20LLM%20Reasoning-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://github.com/areeba-naeem-satti/github-recommender)
 
-### 🧠 GitHub Project Recommender
-> Reasoning-based GitHub project recommender using graph databases and LLMs.  
-> **Stack:** Neo4j · LLMs · Python
+[![Dev Productivity Predictor](https://img.shields.io/badge/📈%20Dev%20Productivity%20Predictor-ML%20+%20Gradio-F7931E?style=for-the-badge&logo=python&logoColor=white)](https://github.com/areeba-naeem-satti/productivity-predictor)
+[![FIFA Analytics](https://img.shields.io/badge/⚽%20FIFA%20World%20Cup%20Analytics-Python%20+%20Power%20BI%20+%20Research%20Paper-009688?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/areeba-naeem-satti/fifa-analytics)
 
-### 📈 Developer Productivity Predictor
-> ML model to forecast developer efficiency based on working patterns.  
-> **Stack:** Python · Gradio · scikit-learn
+[![N-Gram LM](https://img.shields.io/badge/💬%20N--Gram%20Language%20Model-Statistical%20NLP%20%26%20Next--Word%20Prediction-4CAF50?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/areeba-naeem-satti/ngram-lm)
+[![Loan Targeting](https://img.shields.io/badge/🏦%20Loan%20Targeting%20Model-Classification%20%26%20Predictive%20ML-F2C811?style=for-the-badge&logo=scikit-learn&logoColor=black)](https://github.com/areeba-naeem-satti/loan-targeting)
 
-### ⚽ FIFA World Cup Analytics
-> Data analytics & research using Python + Power BI. Published a research paper on economic impacts of hosting the FIFA World Cup.  
-> **Stack:** Python · Power BI
+[![Olympics Analysis](https://img.shields.io/badge/🥇%202024%20Olympics%20Analysis-Data%20Viz%20+%20Python%20+%20Power%20BI-FF6F00?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/areeba-naeem-satti/olympics-analysis)
+[![Visualization Orchestrator](https://img.shields.io/badge/📊%20Visualization%20Orchestrator-Dash%20+%20Plotly%20Multi--Chart%20App-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/areeba-naeem-satti/viz-orchestrator)
 
-### 💬 N-Gram Language Model
-> Statistical NLP model for tokenization, probability estimation, and next-word prediction.  
-> **Stack:** Python · NLTK
-
-### 🏦 Predictive Model for Loan Targeting
-> Classification model for loan approval targeting.  
-> **Stack:** Python · scikit-learn
+</p>
 
 ---
 
