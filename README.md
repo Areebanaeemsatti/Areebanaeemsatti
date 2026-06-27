@@ -21,44 +21,44 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
 
 | | |
 |---|---|
-| 🤖 Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
-| 🧠 Strong in | **ML/DL · Computer Vision · NLP** |
-| 📊 Data storytelling | **Power BI · Python · Plotly** |
-| 🔗 Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
-| 📜 Published | **2 Research Papers** |
+|  Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
+|  Strong in | **ML/DL · Computer Vision · NLP** |
+|  Data storytelling | **Power BI · Python · Plotly** |
+|  Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
+
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
 
-[![Tumor Detection](https://img.shields.io/badge/🏥_Tumor_Detection_Pipeline-YOLOv8_%2B_OpenCV_%2B_Python-1f6feb?style=for-the-badge)](https://github.com/Areebanaeemsatti/tumor-detection)&nbsp;
-[![Emotia](https://img.shields.io/badge/😊_Emotia:_AI_Diary-Multi--Label_Emotion_Classifier-6e40c9?style=for-the-badge)](https://github.com/Areebanaeemsatti/emotia)
+[![Tumor Detection](https://img.shields.io/badge/_Tumor_Detection_Pipeline-YOLOv8_%2B_OpenCV_%2B_Python-1f6feb?style=for-the-badge)](https://github.com/Areebanaeemsatti/tumor-detection)&nbsp;
+[![Emotia](https://img.shields.io/badge/_Emotia:_AI_Diary-Multi--Label_Emotion_Classifier-6e40c9?style=for-the-badge)](https://github.com/Areebanaeemsatti/emotia)
 
-[![Quote Explorer](https://img.shields.io/badge/🔍_Quote_Explorer-SBERT_%2B_FAISS_Semantic_Search-238636?style=for-the-badge)](https://github.com/Areebanaeemsatti/quote-explorer)&nbsp;
-[![GitHub Recommender](https://img.shields.io/badge/🧠_GitHub_Recommender-Neo4j_%2B_LLMs_%2B_LangChain-bd561d?style=for-the-badge)](https://github.com/Areebanaeemsatti/github-recommender)
+[![Quote Explorer](https://img.shields.io/badge/_Quote_Explorer-SBERT_%2B_FAISS_Semantic_Search-238636?style=for-the-badge)](https://github.com/Areebanaeemsatti/quote-explorer)&nbsp;
+[![GitHub Recommender](https://img.shields.io/badge/_GitHub_Recommender-Neo4j_%2B_LLMs_%2B_LangChain-bd561d?style=for-the-badge)](https://github.com/Areebanaeemsatti/github-recommender)
 
-[![Dev Predictor](https://img.shields.io/badge/📈_Dev_Productivity_Predictor-ML_%2B_Gradio-ec6cb9?style=for-the-badge)](https://github.com/Areebanaeemsatti/productivity-predictor)&nbsp;
+[![Dev Predictor](https://img.shields.io/badge/_Dev_Productivity_Predictor-ML_%2B_Gradio-ec6cb9?style=for-the-badge)](https://github.com/Areebanaeemsatti/productivity-predictor)&nbsp;
 [![FIFA Analytics](https://img.shields.io/badge/⚽_FIFA_World_Cup_Analytics-Python_%2B_Power_BI_%2B_Paper-39d353?style=for-the-badge)](https://github.com/Areebanaeemsatti/fifa-analytics)
 
-[![N-Gram LM](https://img.shields.io/badge/💬_N--Gram_Language_Model-Statistical_NLP_%2B_Prediction-f0883e?style=for-the-badge)](https://github.com/Areebanaeemsatti/ngram-lm)&nbsp;
-[![Loan Model](https://img.shields.io/badge/🏦_Loan_Targeting_Model-Classification_%2B_Predictive_ML-58a6ff?style=for-the-badge)](https://github.com/Areebanaeemsatti/loan-targeting)
+[![N-Gram LM](https://img.shields.io/badge/_N--Gram_Language_Model-Statistical_NLP_%2B_Prediction-f0883e?style=for-the-badge)](https://github.com/Areebanaeemsatti/ngram-lm)&nbsp;
+[![Loan Model](https://img.shields.io/badge/_Loan_Targeting_Model-Classification_%2B_Predictive_ML-58a6ff?style=for-the-badge)](https://github.com/Areebanaeemsatti/loan-targeting)
 
-[![Olympics](https://img.shields.io/badge/🥇_2024_Olympics_Analysis-Data_Viz_%2B_Python_%2B_Power_BI-bc8cff?style=for-the-badge)](https://github.com/Areebanaeemsatti/olympics-analysis)&nbsp;
-[![Viz Orchestrator](https://img.shields.io/badge/📊_Visualization_Orchestrator-Dash_%2B_Plotly_Multi--Chart-3fb950?style=for-the-badge)](https://github.com/Areebanaeemsatti/viz-orchestrator)
+[![Olympics](https://img.shields.io/badge/_2024_Olympics_Analysis-Data_Viz_%2B_Python_%2B_Power_BI-bc8cff?style=for-the-badge)](https://github.com/Areebanaeemsatti/olympics-analysis)&nbsp;
+[![Viz Orchestrator](https://img.shields.io/badge/_Visualization_Orchestrator-Dash_%2B_Plotly_Multi--Chart-3fb950?style=for-the-badge)](https://github.com/Areebanaeemsatti/viz-orchestrator)
 
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 **AI / ML**
 
@@ -102,7 +102,7 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semeste
 
 ---
 
-## 📊 Skills Proficiency
+##  Skills Proficiency
 
 ```
 Machine Learning    ████████████████████░░  90%
@@ -117,7 +117,7 @@ NLP                 ███████████████░░░░░
 
 ---
 
-## 🗺️ Roadmap & Directions
+##  Roadmap & Directions
 
 ```
 ✅  ML & DL Foundations
@@ -147,7 +147,7 @@ NLP                 ███████████████░░░░░
 
 ---
 
-## 📈 GitHub Activity & Stats
+##  GitHub Activity & Stats
 
 <div align="center">
 
@@ -171,7 +171,7 @@ NLP                 ███████████████░░░░░
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
