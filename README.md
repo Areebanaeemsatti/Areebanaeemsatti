@@ -6,16 +6,22 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=65&lines=ML+%7C+Computer+Vision+%7C+NLP+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Opportunities+%26+Research+Collaborations)
-
-</div>
-
-█████╗ ██╗    ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
+```
+ █████╗ ██╗    ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
 ██╔══██╗██║    ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
 ███████║██║    █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
 ██╔══██║██║    ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
 ██║  ██║██║    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
 ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
+
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=65&lines=ML+%7C+Computer+Vision+%7C+NLP+%7C+LLMs+%7C+RAG;Open+to+AI%2FML+Opportunities+%26+Research+Collaborations)
+
+</div>
 
 <div align="center">
 
@@ -24,48 +30,63 @@
 ![Location](https://img.shields.io/badge/Islamabad%2C%20Pakistan-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
 ![Student](https://img.shields.io/badge/BS%20Artificial%20Intelligence-6e40c9?style=flat-square&logo=academia&logoColor=white)
 
+**🌐 [Portfolio](https://portfolio-areeba-naeem.vercel.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/areebanaeemsatti001/)**
+
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I love turning data and models into things that actually work.
+Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I build AI systems that go from raw data to working product — not just notebooks.
 
 | | |
 |---|---|
-|  Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
-|  Strong in | **ML/DL · Computer Vision · NLP** |
-|  Data storytelling | **Power BI · Python · Plotly** |
-|  Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
-
-
----
-
-##  Featured Projects
-
-<p align="center">
-
-[![Tumor Detection](https://img.shields.io/badge/_Tumor_Detection_Pipeline-YOLOv8_%2B_OpenCV_%2B_Python-1f6feb?style=for-the-badge)](https://github.com/Areebanaeemsatti/tumor-detection)&nbsp;
-[![Emotia](https://img.shields.io/badge/_Emotia:_AI_Diary-Multi--Label_Emotion_Classifier-6e40c9?style=for-the-badge)](https://github.com/Areebanaeemsatti/emotia)
-
-[![Quote Explorer](https://img.shields.io/badge/_Quote_Explorer-SBERT_%2B_FAISS_Semantic_Search-238636?style=for-the-badge)](https://github.com/Areebanaeemsatti/quote-explorer)&nbsp;
-[![GitHub Recommender](https://img.shields.io/badge/_GitHub_Recommender-Neo4j_%2B_LLMs_%2B_LangChain-bd561d?style=for-the-badge)](https://github.com/Areebanaeemsatti/github-recommender)
-
-[![Dev Predictor](https://img.shields.io/badge/_Dev_Productivity_Predictor-ML_%2B_Gradio-ec6cb9?style=for-the-badge)](https://github.com/Areebanaeemsatti/productivity-predictor)&nbsp;
-[![FIFA Analytics](https://img.shields.io/badge/⚽_FIFA_World_Cup_Analytics-Python_%2B_Power_BI_%2B_Paper-39d353?style=for-the-badge)](https://github.com/Areebanaeemsatti/fifa-analytics)
-
-[![N-Gram LM](https://img.shields.io/badge/_N--Gram_Language_Model-Statistical_NLP_%2B_Prediction-f0883e?style=for-the-badge)](https://github.com/Areebanaeemsatti/ngram-lm)&nbsp;
-[![Loan Model](https://img.shields.io/badge/_Loan_Targeting_Model-Classification_%2B_Predictive_ML-58a6ff?style=for-the-badge)](https://github.com/Areebanaeemsatti/loan-targeting)
-
-[![Olympics](https://img.shields.io/badge/_2024_Olympics_Analysis-Data_Viz_%2B_Python_%2B_Power_BI-bc8cff?style=for-the-badge)](https://github.com/Areebanaeemsatti/olympics-analysis)&nbsp;
-[![Viz Orchestrator](https://img.shields.io/badge/_Visualization_Orchestrator-Dash_%2B_Plotly_Multi--Chart-3fb950?style=for-the-badge)](https://github.com/Areebanaeemsatti/viz-orchestrator)
-
-</p>
+| 🔭 Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
+| 💪 Strong in | **ML/DL · Computer Vision · NLP** |
+| 📊 Data storytelling | **Power BI · Python · Plotly** |
+| 🔗 Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
+| 🎯 Looking for | **AI/ML Internships & Research Collaborations** |
 
 ---
 
-##  Tech Stack & Skills
+## Featured Projects
+
+> Each one below solves a real, specific problem — not a tutorial clone.
+
+**🧠 [Tumor Detection Pipeline](https://github.com/Areebanaeemsatti/tumor-detection)**
+`YOLOv8 · OpenCV · Python` — Object detection pipeline for identifying tumors in medical imaging data.
+
+**📓 [Emotia: AI Diary](https://github.com/Areebanaeemsatti/emotia)**
+`Multi-Label Emotion Classifier` — Classifies multiple emotions from free-form diary text entries.
+
+**🔍 [Quote Explorer](https://github.com/Areebanaeemsatti/quote-explorer)**
+`SBERT · FAISS` — Semantic search engine that finds quotes by meaning, not just keyword match.
+
+**🕸️ [GitHub Recommender](https://github.com/Areebanaeemsatti/github-recommender)**
+`Neo4j · LLMs · LangChain` — Recommends relevant repos using a knowledge-graph + LLM pipeline.
+
+**⚙️ [Dev Productivity Predictor](https://github.com/Areebanaeemsatti/productivity-predictor)**
+`ML · Gradio` — Predicts developer productivity trends from activity data, deployed with a Gradio UI.
+
+**⚽ [FIFA World Cup Analytics](https://github.com/Areebanaeemsatti/fifa-analytics)**
+`Python · Power BI` — Data analysis and visualization of historical FIFA World Cup performance trends.
+
+**🔤 [N-Gram Language Model](https://github.com/Areebanaeemsatti/ngram-lm)**
+`Statistical NLP` — Autocomplete system built on n-gram probability models with a live demo UI.
+
+**💳 [Loan Targeting Model](https://github.com/Areebanaeemsatti/loan-targeting)**
+`Classification · Predictive ML` — Predicts which customers are most likely to accept a loan offer.
+
+**🏅 [2024 Olympics Analysis](https://github.com/Areebanaeemsatti/olympics-analysis)**
+`Python · Power BI` — Visual breakdown of medal trends and country performance at the 2024 Olympics.
+
+**📊 [Visualization Orchestrator](https://github.com/Areebanaeemsatti/viz-orchestrator)**
+`Dash · Plotly` — Multi-chart dashboard tool for orchestrating and comparing datasets side by side.
+
+---
+
+## Tech Stack & Skills
 
 **AI / ML**
 
@@ -109,13 +130,13 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semeste
 
 ---
 
-##  Skills Proficiency
+## Skills Proficiency
 
 ```
 Machine Learning    ████████████████████░░  90%
 Python              █████████████████████░░  92%
 Data Analysis       ████████████████████░░░  85%
-Deep Learning       ███████████████████░░░░  82%
+Deep Learning        ███████████████████░░░░  82%
 Generative AI       ████████████████████░░░  80%
 Computer Vision     ██████████████████░░░░░  78%
 Power BI / Viz      ████████████████░░░░░░░  77%
@@ -124,7 +145,7 @@ NLP                 ███████████████░░░░░
 
 ---
 
-##  Roadmap & Directions
+## Roadmap & Directions
 
 ```
 ✅  ML & DL Foundations
@@ -154,7 +175,7 @@ NLP                 ███████████████░░░░░
 
 ---
 
-##  GitHub Activity & Stats
+## GitHub Activity & Stats
 
 <div align="center">
 
@@ -178,7 +199,7 @@ NLP                 ███████████████░░░░░
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
