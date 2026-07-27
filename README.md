@@ -42,11 +42,11 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semeste
 
 | | |
 |---|---|
-| 🔭 Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
-| 💪 Strong in | **ML/DL · Computer Vision · NLP** |
-| 📊 Data storytelling | **Power BI · Python · Plotly** |
-| 🔗 Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
-| 🎯 Looking for | **AI/ML Internships & Research Collaborations** |
+|  Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
+|  Strong in | **ML/DL · Computer Vision · NLP** |
+|  Data storytelling | **Power BI · Python · Plotly** |
+|  Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
+|  Looking for | **AI/ML Opportunities & Research Collaborations** |
 
 ---
 
@@ -54,34 +54,34 @@ Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semeste
 
 > Each one below solves a real, specific problem — not a tutorial clone.
 
-**🧠 [Tumor Detection Pipeline](https://github.com/Areebanaeemsatti/tumor-detection)**
+**🧠 [Tumor Detection Pipeline](https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8)**
 `YOLOv8 · OpenCV · Python` — Object detection pipeline for identifying tumors in medical imaging data.
 
-**📓 [Emotia: AI Diary](https://github.com/Areebanaeemsatti/emotia)**
+**📓 [Emotia: AI Diary](https://github.com/Areebanaeemsatti/Emotia)**
 `Multi-Label Emotion Classifier` — Classifies multiple emotions from free-form diary text entries.
 
-**🔍 [Quote Explorer](https://github.com/Areebanaeemsatti/quote-explorer)**
+**🔍 [Quote Explorer](https://github.com/Areebanaeemsatti/Quotes)**
 `SBERT · FAISS` — Semantic search engine that finds quotes by meaning, not just keyword match.
 
 **🕸️ [GitHub Recommender](https://github.com/Areebanaeemsatti/github-recommender)**
 `Neo4j · LLMs · LangChain` — Recommends relevant repos using a knowledge-graph + LLM pipeline.
 
-**⚙️ [Dev Productivity Predictor](https://github.com/Areebanaeemsatti/productivity-predictor)**
+**⚙️ [Dev Productivity Predictor](https://github.com/Areebanaeemsatti/AI_developer_productivity)**
 `ML · Gradio` — Predicts developer productivity trends from activity data, deployed with a Gradio UI.
 
-**⚽ [FIFA World Cup Analytics](https://github.com/Areebanaeemsatti/fifa-analytics)**
+**⚽ [FIFA World Cup Analytics](https://github.com/Areebanaeemsatti/Fifa_world_cup-research_paper-)**
 `Python · Power BI` — Data analysis and visualization of historical FIFA World Cup performance trends.
 
-**🔤 [N-Gram Language Model](https://github.com/Areebanaeemsatti/ngram-lm)**
+**🔤 [N-Gram Language Model](https://github.com/Areebanaeemsatti/N-Gram-Language-Model)**
 `Statistical NLP` — Autocomplete system built on n-gram probability models with a live demo UI.
 
-**💳 [Loan Targeting Model](https://github.com/Areebanaeemsatti/loan-targeting)**
+**💳 [Loan Targeting Model]**
 `Classification · Predictive ML` — Predicts which customers are most likely to accept a loan offer.
 
-**🏅 [2024 Olympics Analysis](https://github.com/Areebanaeemsatti/olympics-analysis)**
+**🏅 [2024 Olympics Analysis]**
 `Python · Power BI` — Visual breakdown of medal trends and country performance at the 2024 Olympics.
 
-**📊 [Visualization Orchestrator](https://github.com/Areebanaeemsatti/viz-orchestrator)**
+**📊 [Visualization Orchestrator](https://github.com/Areebanaeemsatti/Visualization_Orchestrator)**
 `Dash · Plotly` — Multi-chart dashboard tool for orchestrating and comparing datasets side by side.
 
 ---
