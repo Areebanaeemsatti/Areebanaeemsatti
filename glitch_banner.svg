@@ -1,0 +1,101 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="55%" stop-color="#0a0e17"/>
+      <stop offset="100%" stop-color="#050608"/>
+    </linearGradient>
+
+    <linearGradient id="edgeGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffe0"/>
+      <stop offset="50%" stop-color="#ff00c8"/>
+      <stop offset="100%" stop-color="#00ffe0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#12351f" stroke-width="0.6" opacity="0.5"/>
+    </pattern>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- top accent bar -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#edgeGlow)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="297" width="1200" height="3" fill="url(#edgeGlow)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner brackets -->
+  <g stroke="#33ffb0" stroke-width="2.5" fill="none" opacity="0.85">
+    <path d="M20,40 L20,18 L44,18"/>
+    <path d="M1156,18 L1180,18 L1180,40"/>
+    <path d="M20,260 L20,282 L44,282"/>
+    <path d="M1180,260 L1180,282 L1156,282"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="600" y="52" text-anchor="middle" font-family="'Courier New', monospace" font-size="15"
+        letter-spacing="6" fill="#ff5f4d" opacity="0.85">
+    ⚡ AI STUDENT &#160;|&#160; BUILDER &#160;|&#160; RESEARCHER ⚡
+  </text>
+
+  <!-- glitch name: base + 2 chromatic offset copies -->
+  <g font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="58" text-anchor="middle">
+    <text x="598" y="145" fill="#ff00c8" opacity="0.65" filter="url(#softGlow)">
+      AREEBA NAEEM
+      <animate attributeName="x" values="598;603;596;598" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="602" y="145" fill="#00ffe0" opacity="0.65" filter="url(#softGlow)">
+      AREEBA NAEEM
+      <animate attributeName="x" values="602;597;604;602" dur="2.1s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="145" fill="#e9fff4">
+      AREEBA NAEEM
+    </text>
+  </g>
+
+  <g font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="58" text-anchor="middle">
+    <text x="602" y="200" fill="#ff00c8" opacity="0.6" filter="url(#softGlow)">
+      SATTI
+      <animate attributeName="x" values="602;598;605;602" dur="2.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="598" y="200" fill="#00ffe0" opacity="0.6" filter="url(#softGlow)">
+      SATTI
+      <animate attributeName="x" values="598;604;596;598" dur="1.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="200" fill="#39ff9d" filter="url(#softGlow)">
+      SATTI
+      <animate attributeName="opacity" values="1;1;0.3;1;1" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- glitch slice bars over the name -->
+  <g opacity="0.5">
+    <rect x="0" y="120" width="1200" height="6" fill="#ff00c8">
+      <animate attributeName="x" values="-1200;1200" dur="3.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="185" width="1200" height="5" fill="#00ffe0">
+      <animate attributeName="x" values="1200;-1200" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="4.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- tagline -->
+  <text x="600" y="245" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" fill="#33ffb0">
+    <tspan>&gt; Building intelligent systems that actually work</tspan><tspan fill="#ffffff">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan>
+  </text>
+</svg>
