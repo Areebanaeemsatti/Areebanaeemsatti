@@ -38,7 +38,7 @@
 
 ## About Me
 
-Hi! I'm **Areeba**, a BS AI student at **Air University Islamabad** (6th Semester). I've completed two internships at **NASTP (National Aerospace Science & Technology Park)**, working on real-world ML/DL projects in high-tech R&D environments. I build AI systems that go from raw data to working product — not just notebooks.
+Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islamabad, building AI systems that go from raw data to working product, not just notebooks. I bring hands-on industry experience from two internships at NASTP (National Aerospace Science & Technology Park), where I worked on real-world ML/DL solutions inside a national high-tech R&D environment. My focus spans Machine Learning, Computer Vision, NLP, and Generative AI — with a growing specialization in RAG pipelines and LLM-powered systems.
 
 | | |
 |---|---|
