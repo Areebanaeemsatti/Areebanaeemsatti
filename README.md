@@ -75,29 +75,10 @@
   <img src="./roadmap.svg" alt="Roadmap and Directions" width="100%" />
 </p>
 ---
-
-## GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Areebanaeemsatti&show_icons=true&theme=neon&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areebanaeemsatti&layout=compact&theme=neon&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ffff" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areebanaeemsatti&theme=neon&hide_border=true&background=000000&ring=00ff41&fire=ff00ff&currStreakLabel=00ffff" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Areebanaeemsatti&theme=neon&no-frame=true&no-bg=true&row=1&column=4" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Areebanaeemsatti&theme=neon&bg_color=000000&color=00ffff&line=00ff41&point=ff00ff&hide_border=true" width="100%"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areebanaeemsatti&theme=tokyonight&hide_border=true&background=0B0F17" alt="Areeba's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Areebanaeemsatti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F17" alt="Areeba's GitHub Stats" width="49%" />
+</p>
 ---
 
 ## Connect With Me
