@@ -59,14 +59,14 @@ Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islama
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Areebanaeemsatti/Buildora">
+      <a href="https://github.com/Areebanaeemsatti/buildora-AI">
         <img src="./02.svg" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">
+      <a href="https://github.com/Areebanaeemsatti/glow-quest-companion">
         <img src="./03.svg" width="100%" />
       </a>
     </td>
