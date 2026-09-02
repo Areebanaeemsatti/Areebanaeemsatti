@@ -59,7 +59,7 @@ Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islama
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Areebanaeemsatti/github-recommender">
+      <a href="https://github.com/Areebanaeemsatti/Buildora">
         <img src="./02.svg" width="100%" />
       </a>
     </td>
