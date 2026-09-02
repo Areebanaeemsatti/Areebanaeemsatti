@@ -67,47 +67,14 @@
 </p>
 ---
 
-## Skills Proficiency
-
-```
-Machine Learning    ████████████████████░░  90%
-Python              █████████████████████░░  92%
-Data Analysis       ████████████████████░░░  85%
-Deep Learning        ███████████████████░░░░  82%
-Generative AI       ████████████████████░░░  80%
-Computer Vision     ██████████████████░░░░░  78%
-Power BI / Viz      ████████████████░░░░░░░  77%
-NLP                 ███████████████░░░░░░░░  75%
-```
-
+<p align="center">
+  <img src="./skills.svg" alt="Skills Proficiency" width="100%" />
+</p>
 ---
+<p align="center">
+  <img src="./images/roadmap.svg" alt="Roadmap and Directions" width="100%" />
+</p>
 
-## Roadmap & Directions
-
-```
-✅  ML & DL Foundations
-    Supervised/unsupervised learning, model evaluation,
-    feature engineering, classification & regression
-
-✅  Computer Vision Pipelines
-    YOLOv8 object detection, medical image preprocessing,
-    CV feature extraction, OpenCV workflows
-
-✅  NLP & Semantic Search
-    N-gram models, BiLSTM, SBERT embeddings,
-    FAISS vector search, multilingual classification
-
-🔵  Generative AI & LLM Agents          ← Currently here
-    RAG pipelines, LangChain agents, OpenAI APIs,
-    knowledge graphs with Neo4j, MCP fundamentals
-
-⬜  MLOps & Deployment                   ← Next
-    Model serving, Docker, FastAPI, CI/CD for ML,
-    monitoring & explainability
-
-⬜  Research & Publications
-    Contribute to AI research, publish papers,
-    explore explainable ML & agentic systems at scale
 ```
 
 ---
