@@ -55,24 +55,24 @@ Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islama
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8">
-        <img src="./images/01.svg" width="100%" />
+        <img src="./01.svg" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Areebanaeemsatti/github-recommender">
-        <img src="./images/02.svg" width="100%" />
+        <img src="./02.svg" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">
-        <img src="./images/03.svg" width="100%" />
+        <img src="./03.svg" width="100%" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Areebanaeemsatti/Emotia">
-        <img src="./images/04.svg" width="100%" />
+        <img src="./04.svg" width="100%" />
       </a>
     </td>
   </tr>
