@@ -89,10 +89,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0021,50:001a00,100:000000&height=100&section=footer" width="100%"/>
-
-*"Building AI that helps, not just impresses."*
-
-</div>
+<p align="center">
+  <img src="./quote_card.svg" alt="Building AI that helps, not just impresses." width="100%" />
+</p>
