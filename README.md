@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="./images/about.svg" alt="About Me" width="100%" />
+  <img src="./about.svg" alt="About Me" width="100%" />
 </p>
 
 ---
