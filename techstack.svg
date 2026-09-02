@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="796" height="416" rx="16" fill="url(#cardBg)" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- Header -->
+  <text x="32" y="42" fill="#F8FAFC" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700">⚡ Tech Stack &amp; Skills</text>
+  <rect x="32" y="52" width="736" height="1" fill="#1E293B"/>
+
+  <!-- Helper Macros for Badges -->
+  <g font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">
+    
+    <!-- SECTION 1: AI / ML -->
+    <text x="32" y="82" fill="#94A3B8" font-size="13" font-weight="600">AI / ML</text>
+    <g transform="translate(32, 92)">
+      <!-- PyTorch -->
+      <rect x="0" y="0" width="85" height="28" rx="6" fill="#EE4C2C"/>
+      <text x="12" y="18">PyTorch</text>
+      <!-- TensorFlow -->
+      <rect x="91" y="0" width="102" height="28" rx="6" fill="#FF6F00"/>
+      <text x="103" y="18">TensorFlow</text>
+      <!-- scikit-learn -->
+      <rect x="199" y="0" width="105" height="28" rx="6" fill="#F7931E"/>
+      <text x="211" y="18">scikit-learn</text>
+      <!-- OpenCV -->
+      <rect x="310" y="0" width="82" height="28" rx="6" fill="#5C3EE8"/>
+      <text x="322" y="18">OpenCV</text>
+      <!-- YOLOv8 -->
+      <rect x="398" y="0" width="78" height="28" rx="6" fill="#00B4D8"/>
+      <text x="410" y="18">YOLOv8</text>
+    </g>
+
+    <!-- SECTION 2: Generative AI & LLMs -->
+    <text x="32" y="148" fill="#94A3B8" font-size="13" font-weight="600">Generative AI &amp; LLMs</text>
+    <g transform="translate(32, 158)">
+      <!-- LangChain -->
+      <rect x="0" y="0" width="95" height="28" rx="6" fill="#1C3C3C"/>
+      <text x="12" y="18" fill="#2DD4BF">LangChain</text>
+      <!-- OpenAI -->
+      <rect x="101" y="0" width="76" height="28" rx="6" fill="#412991"/>
+      <text x="113" y="18">OpenAI</text>
+      <!-- RAG Pipelines -->
+      <rect x="183" y="0" width="112" height="28" rx="6" fill="#7C3AED"/>
+      <text x="195" y="18">RAG Pipelines</text>
+      <!-- FAISS -->
+      <rect x="301" y="0" width="62" height="28" rx="6" fill="#0284C7"/>
+      <text x="313" y="18">FAISS</text>
+      <!-- SBERT -->
+      <rect x="369" y="0" width="68" height="28" rx="6" fill="#16A34A"/>
+      <text x="381" y="18">SBERT</text>
+    </g>
+
+    <!-- SECTION 3: Data & Visualization -->
+    <text x="32" y="214" fill="#94A3B8" font-size="13" font-weight="600">Data &amp; Visualization</text>
+    <g transform="translate(32, 224)">
+      <!-- Pandas -->
+      <rect x="0" y="0" width="76" height="28" rx="6" fill="#150458"/>
+      <text x="12" y="18">Pandas</text>
+      <!-- NumPy -->
+      <rect x="82" y="0" width="74" height="28" rx="6" fill="#013243"/>
+      <text x="94" y="18" fill="#40C4FF">NumPy</text>
+      <!-- Plotly -->
+      <rect x="162" y="0" width="65" height="28" rx="6" fill="#3F4B66"/>
+      <text x="174" y="18">Plotly</text>
+      <!-- Power BI -->
+      <rect x="233" y="0" width="82" height="28" rx="6" fill="#F2C811"/>
+      <text x="245" y="18" fill="#000000">Power BI</text>
+      <!-- Gradio -->
+      <rect x="321" y="0" width="70" height="28" rx="6" fill="#FF7C00"/>
+      <text x="333" y="18">Gradio</text>
+      <!-- Dash -->
+      <rect x="397" y="0" width="58" height="28" rx="6" fill="#0088CC"/>
+      <text x="409" y="18">Dash</text>
+    </g>
+
+    <!-- SECTION 4: Languages -->
+    <text x="32" y="280" fill="#94A3B8" font-size="13" font-weight="600">Languages</text>
+    <g transform="translate(32, 290)">
+      <!-- Python -->
+      <rect x="0" y="0" width="75" height="28" rx="6" fill="#3776AB"/>
+      <text x="12" y="18">Python</text>
+      <!-- SQL -->
+      <rect x="81" y="0" width="58" height="28" rx="6" fill="#00758F"/>
+      <text x="93" y="18">SQL</text>
+      <!-- JavaScript -->
+      <rect x="145" y="0" width="92" height="28" rx="6" fill="#F7DF1E"/>
+      <text x="157" y="18" fill="#000000">JavaScript</text>
+      <!-- C# -->
+      <rect x="243" y="0" width="45" height="28" rx="6" fill="#239120"/>
+      <text x="255" y="18">C#</text>
+      <!-- HTML/CSS -->
+      <rect x="294" y="0" width="94" height="28" rx="6" fill="#E34F26"/>
+      <text x="306" y="18">HTML/CSS</text>
+    </g>
+
+    <!-- SECTION 5: Databases & Tools -->
+    <text x="32" y="346" fill="#94A3B8" font-size="13" font-weight="600">Databases &amp; Tools</text>
+    <g transform="translate(32, 356)">
+      <!-- Neo4j -->
+      <rect x="0" y="0" width="68" height="28" rx="6" fill="#008CC1"/>
+      <text x="12" y="18">Neo4j</text>
+      <!-- Git -->
+      <rect x="74" y="0" width="52" height="28" rx="6" fill="#F05032"/>
+      <text x="86" y="18">Git</text>
+      <!-- GitHub -->
+      <rect x="132" y="0" width="72" height="28" rx="6" fill="#181717"/>
+      <text x="144" y="18">GitHub</text>
+      <!-- Colab -->
+      <rect x="210" y="0" width="68" height="28" rx="6" fill="#F9A825"/>
+      <text x="222" y="18" fill="#000000">Colab</text>
+    </g>
+
+  </g>
+</svg>
