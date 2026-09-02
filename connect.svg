@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="796" height="146" rx="16" fill="url(#cardBg)" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- Header -->
+  <text x="32" y="40" fill="#F8FAFC" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700">🤝 Connect With Me</text>
+  <rect x="32" y="50" width="736" height="1" fill="#1E293B"/>
+
+  <!-- Badges Container -->
+  <g transform="translate(32, 70)" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700">
+    
+    <!-- LinkedIn Badge -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="65" height="28" rx="4" fill="#555555"/>
+      <text x="10" y="18" fill="#FFFFFF">LINKEDIN</text>
+      <rect x="65" y="0" width="170" height="28" rx="4" fill="#0077B5"/>
+      <rect x="65" y="0" width="4" height="28" fill="#0077B5"/>
+      <text x="75" y="18" fill="#FFFFFF">AREEBANAEEMSATTI001</text>
+    </g>
+
+    <!-- Gmail Badge -->
+    <g transform="translate(247, 0)">
+      <rect x="0" y="0" width="72" height="28" rx="4" fill="#555555"/>
+      <!-- Gmail Icon -->
+      <path d="M11 9.5 L17 14 L23 9.5 M11 9.5 V18.5 H23 V9.5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text x="28" y="18" fill="#FFFFFF">GMAIL</text>
+      <rect x="72" y="0" width="220" height="28" rx="4" fill="#D14836"/>
+      <rect x="72" y="0" width="4" height="28" fill="#D14836"/>
+      <text x="82" y="18" fill="#FFFFFF">NAEEMSATTIAREEBA@GMAIL.COM</text>
+    </g>
+
+    <!-- GitHub Badge -->
+    <g transform="translate(551, 0)">
+      <rect x="0" y="0" width="75" height="28" rx="4" fill="#555555"/>
+      <!-- GitHub Icon -->
+      <path d="M16 8 C12.13 8 9 11.13 9 15 C9 18.09 11.01 20.71 13.79 21.64 C14.14 21.7 14.27 21.49 14.27 21.31 C14.27 21.15 14.26 20.61 14.26 19.95 C12.31 20.37 11.9 19.12 11.9 19.12 C11.58 18.31 11.12 18.09 11.12 18.09 C10.48 17.65 11.17 17.66 11.17 17.66 C11.88 17.71 12.25 18.39 12.25 18.39 C12.88 19.47 13.9 19.16 14.3 18.98 C14.36 18.52 14.55 18.21 14.75 18.03 C13.19 17.85 11.55 17.25 11.55 14.56 C11.55 13.79 11.82 13.16 12.27 12.67 C12.2 12.49 11.96 11.77 12.34 10.8 C12.34 10.8 12.93 10.61 14.27 11.52 C14.83 11.36 15.43 11.28 16.03 11.28 C16.63 11.28 17.23 11.36 17.79 11.52 C19.13 10.61 19.72 10.8 19.72 10.8 C20.1 11.77 19.86 12.49 19.79 12.67 C20.24 13.16 20.5 13.79 20.5 14.56 C20.5 17.26 18.86 17.85 17.3 18.02 C17.56 18.25 17.79 18.7 17.79 19.38 C17.79 20.36 17.78 21.15 17.78 21.31 C17.78 21.49 17.91 21.71 18.27 21.64 C21.05 20.71 23.06 18.09 23.06 15 C23.06 11.13 19.93 8 16 8 Z" fill="#FFFFFF"/>
+      <text x="28" y="18" fill="#FFFFFF">GITHUB</text>
+      <rect x="75" y="0" width="138" height="28" rx="4" fill="#181717"/>
+      <rect x="75" y="0" width="4" height="28" fill="#181717"/>
+      <text x="85" y="18" fill="#FFFFFF">AREEBANAEEMSATTI</text>
+    </g>
+
+  </g>
+</svg>
