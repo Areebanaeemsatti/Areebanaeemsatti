@@ -81,15 +81,11 @@
 </p>
 ---
 
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-areebanaeemsatti001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areebanaeemsatti001/)
-[![Gmail](https://img.shields.io/badge/Gmail-naeemsattiareeba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naeemsattiareeba@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Areebanaeemsatti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areebanaeemsatti)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/AREEBANAEEMSATTI001" target="_blank">
+    <img src="./connect.svg" alt="Connect With Me" width="100%" />
+  </a>
+</p>
 
 ---
 
