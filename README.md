@@ -28,17 +28,9 @@
 
 ---
 
-## About Me
-
-Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islamabad, building AI systems that go from raw data to working product, not just notebooks. I bring hands-on industry experience from two internships at NASTP (National Aerospace Science & Technology Park), where I worked on real-world ML/DL solutions inside a national high-tech R&D environment. My focus spans Machine Learning, Computer Vision, NLP, and Generative AI — with a growing specialization in RAG pipelines and LLM-powered systems.
-
-| | |
-|---|---|
-|  Currently exploring | **RAG · LLM Agents · MCP Fundamentals** |
-|  Strong in | **ML/DL · Computer Vision · NLP** |
-|  Data storytelling | **Power BI · Python · Plotly** |
-|  Graph AI | **Neo4j · LangChain · Knowledge Graphs** |
-|  Looking for | **AI/ML Opportunities & Research Collaborations** |
+<p align="center">
+  <img src="./images/about.svg" alt="About Me" width="100%" />
+</p>
 
 ---
 ## Featured Projects
