@@ -49,39 +49,36 @@ Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islama
 |  Looking for | **AI/ML Opportunities & Research Collaborations** |
 
 ---
-
 ## Featured Projects
 
 > Dynamic, real-time repository cards highlighting core projects.
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Medical-Tumor-Localization-Classification-with-YOLOv8&theme=neon" />
+  </a>
+  <a href="https://github.com/Areebanaeemsatti/Emotia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Emotia&theme=neon" />
+  </a>
+</p>
 
-<a href="https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Medical-Tumor-Localization-Classification-with-YOLOv8&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
-</a>
-<a href="https://github.com/Areebanaeemsatti/Emotia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Emotia&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
-</a>
+<p align="center">
+  <a href="https://github.com/Areebanaeemsatti/Quotes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Quotes&theme=neon" />
+  </a>
+  <a href="https://github.com/Areebanaeemsatti/github-recommender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=github-recommender&theme=neon" />
+  </a>
+</p>
 
-<br />
-
-<a href="https://github.com/Areebanaeemsatti/Quotes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Quotes&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
-</a>
-<a href="https://github.com/Areebanaeemsatti/github-recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=github-recommender&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
-</a>
-
-<br />
-
-<a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=AI_developer_productivity&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
-</a>
-<a href="https://github.com/Areebanaeemsatti/Visualization_Orchestrator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Visualization_Orchestrator&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=AI_developer_productivity&theme=neon" />
+  </a>
+  <a href="https://github.com/Areebanaeemsatti/Visualization_Orchestrator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Visualization_Orchestrator&theme=neon" />
+  </a>
+</p>
 
 ## Tech Stack & Skills
 
