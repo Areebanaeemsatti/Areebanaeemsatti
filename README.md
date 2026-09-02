@@ -52,39 +52,36 @@ Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islama
 
 ## Featured Projects
 
-> Each one below solves a real, specific problem — not a tutorial clone.
+> Dynamic, real-time repository cards highlighting core projects.
 
-**🧠 [Tumor Detection Pipeline](https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8)**
-`YOLOv8 · OpenCV · Python` — Object detection pipeline for identifying tumors in medical imaging data.
+<div align="center">
 
-**📓 [Emotia: AI Diary](https://github.com/Areebanaeemsatti/Emotia)**
-`Multi-Label Emotion Classifier` — Classifies multiple emotions from free-form diary text entries.
+<a href="https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Medical-Tumor-Localization-Classification-with-YOLOv8&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
+</a>
+<a href="https://github.com/Areebanaeemsatti/Emotia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Emotia&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
+</a>
 
-**🔍 [Quote Explorer](https://github.com/Areebanaeemsatti/Quotes)**
-`SBERT · FAISS` — Semantic search engine that finds quotes by meaning, not just keyword match.
+<br />
 
-**🕸️ [GitHub Recommender](https://github.com/Areebanaeemsatti/github-recommender)**
-`Neo4j · LLMs · LangChain` — Recommends relevant repos using a knowledge-graph + LLM pipeline.
+<a href="https://github.com/Areebanaeemsatti/Quotes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Quotes&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
+</a>
+<a href="https://github.com/Areebanaeemsatti/github-recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=github-recommender&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
+</a>
 
-**⚙️ [Dev Productivity Predictor](https://github.com/Areebanaeemsatti/AI_developer_productivity)**
-`ML · Gradio` — Predicts developer productivity trends from activity data, deployed with a Gradio UI.
+<br />
 
-**⚽ [FIFA World Cup Analytics](https://github.com/Areebanaeemsatti/Fifa_world_cup-research_paper-)**
-`Python · Power BI` — Data analysis and visualization of historical FIFA World Cup performance trends.
+<a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=AI_developer_productivity&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
+</a>
+<a href="https://github.com/Areebanaeemsatti/Visualization_Orchestrator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Areebanaeemsatti&repo=Visualization_Orchestrator&theme=neon&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&show_owner=false" width="48%" />
+</a>
 
-**🔤 [N-Gram Language Model](https://github.com/Areebanaeemsatti/N-Gram-Language-Model)**
-`Statistical NLP` — Autocomplete system built on n-gram probability models with a live demo UI.
-
-**💳 [Loan Targeting Model]**
-`Classification · Predictive ML` — Predicts which customers are most likely to accept a loan offer.
-
-**🏅 [2024 Olympics Analysis]**
-`Python · Power BI` — Visual breakdown of medal trends and country performance at the 2024 Olympics.
-
-**📊 [Visualization Orchestrator](https://github.com/Areebanaeemsatti/Visualization_Orchestrator)**
-`Dash · Plotly` — Multi-chart dashboard tool for orchestrating and comparing datasets side by side.
-
----
+</div>
 
 ## Tech Stack & Skills
 
