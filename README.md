@@ -72,11 +72,8 @@
 </p>
 ---
 <p align="center">
-  <img src="./images/roadmap.svg" alt="Roadmap and Directions" width="100%" />
+  <img src="./roadmap.svg" alt="Roadmap and Directions" width="100%" />
 </p>
-
-```
-
 ---
 
 ## GitHub Activity & Stats
