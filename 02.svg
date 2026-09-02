@@ -1,34 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="220" viewBox="0 0 500 220" fill="none">
-  <rect x="2" y="2" width="496" height="216" rx="16" fill="#0B0F17" stroke="#8B5CF6" stroke-width="2"/>
-  
-  <!-- Content Left -->
-  <text x="24" y="44" fill="#A855F7" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700">GitHub Recommender Engine</text>
-  <text x="24" y="74" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">Knowledge-graph recommendation system mapping</text>
-  <text x="24" y="92" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">repository connections using LLM agents and semantic</text>
-  <text x="24" y="110" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">routing via Neo4j &amp; LangChain.</text>
-  
-  <!-- Badges -->
-  <rect x="24" y="152" width="58" height="26" rx="6" fill="#1E293B"/>
-  <text x="53" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">Neo4j</text>
-  
-  <rect x="90" y="152" width="82" height="26" rx="6" fill="#1E293B"/>
-  <text x="131" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">LangChain</text>
-  
-  <rect x="180" y="152" width="52" height="26" rx="6" fill="#1E293B"/>
-  <text x="206" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">LLMs</text>
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="rocketGlow" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
 
-  <!-- Illustration Right (Network Nodes) -->
-  <g transform="translate(360, 45)">
-    <line x1="50" y1="20" x2="20" y2="90" stroke="#6D28D9" stroke-width="2"/>
-    <line x1="50" y1="20" x2="80" y2="90" stroke="#6D28D9" stroke-width="2"/>
-    <line x1="20" y1="90" x2="80" y2="90" stroke="#6D28D9" stroke-width="2"/>
-    
-    <circle cx="50" cy="20" r="8" fill="#A855F7"/>
-    <circle cx="20" cy="90" r="8" fill="#3B82F6"/>
-    <circle cx="80" cy="90" r="8" fill="#3B82F6"/>
-    
-    <text x="50" y="5" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" text-anchor="middle">Graph</text>
-    <text x="10" y="110" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" text-anchor="middle">Repos</text>
-    <text x="90" y="110" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" text-anchor="middle">Users</text>
+  <!-- Card Border & Background -->
+  <rect x="2" y="2" width="496" height="216" rx="16" fill="#0B0F17" stroke="#2563EB" stroke-width="2"/>
+
+  <!-- Content Left -->
+  <text x="24" y="42" fill="#60A5FA" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700">🚀 Buildora: AI Startup Engine</text>
+  <text x="24" y="72" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">Build Smarter. Launch Faster. AI platform turning</text>
+  <text x="24" y="90" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">raw startup ideas into investor-ready pitch decks &amp;</text>
+  <text x="24" y="108" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">growth strategies in minutes via Google Gemini.</text>
+
+  <!-- Badges -->
+  <rect x="24" y="152" width="65" height="26" rx="6" fill="#1E293B"/>
+  <text x="56" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">React 19</text>
+
+  <rect x="97" y="152" width="105" height="26" rx="6" fill="#1E293B"/>
+  <text x="149" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">Google Gemini</text>
+
+  <rect x="210" y="152" width="72" height="26" rx="6" fill="#1E293B"/>
+  <text x="246" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">Supabase</text>
+
+  <!-- Entrepreneurship Illustration Right -->
+  <g transform="translate(360, 35)">
+    <!-- Idea Bulb Glow -->
+    <circle cx="35" cy="25" r="18" fill="#3B82F6" fill-opacity="0.15"/>
+    <path d="M 35 12 C 28 12, 23 17, 23 24 C 23 29, 26 32, 28 35 L 42 35 C 44 32, 47 29, 47 24 C 47 17, 42 12, 35 12 Z" fill="none" stroke="#60A5FA" stroke-width="2"/>
+    <line x1="31" y1="39" x2="39" y2="39" stroke="#60A5FA" stroke-width="2"/>
+
+    <!-- Rocket Launching & Upward Trajectory -->
+    <path d="M 10 110 Q 30 70, 85 30" fill="none" stroke="#3B82F6" stroke-width="2.5" stroke-dasharray="4 2"/>
+    <polygon points="85,22 93,37 77,37" fill="#60A5FA" transform="rotate(45, 85, 30)"/>
+
+    <!-- Growth Chart Bars -->
+    <rect x="15" y="95" width="8" height="20" fill="#1E3A8A" rx="2"/>
+    <rect x="29" y="80" width="8" height="35" fill="#1D4ED8" rx="2"/>
+    <rect x="43" y="65" width="8" height="50" fill="#2563EB" rx="2"/>
+    <rect x="57" y="45" width="8" height="70" fill="#3B82F6" rx="2"/>
+    <rect x="71" y="30" width="8" height="85" fill="#60A5FA" rx="2"/>
+    <line x1="10" y1="117" x2="85" y2="117" stroke="#334155" stroke-width="1.5"/>
   </g>
 </svg>
