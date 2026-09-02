@@ -51,71 +51,32 @@ Hi, I'm Areeba — a BS Artificial Intelligence student at Air University Islama
 ---
 ## Featured Projects
 
-> Handcrafted AI & ML solutions built for real-world impact.
-
-<table width="100%">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8">🧠 Medical Tumor Detection</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8?style=flat-square&color=00ff41" />
-        <img src="https://img.shields.io/github/forks/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8?style=flat-square&color=ff00ff" />
-      </p>
-      <p>YOLOv8 & OpenCV object detection pipeline for identifying and classifying medical imaging tumors.</p>
-      <p><code>YOLOv8</code> <code>OpenCV</code> <code>Python</code> <code>Deep Learning</code></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Areebanaeemsatti/Medical-Tumor-Localization-Classification-with-YOLOv8">
+        <img src="./images/01.svg" width="100%" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Areebanaeemsatti/Emotia">📓 Emotia: AI Diary</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Areebanaeemsatti/Emotia?style=flat-square&color=00ff41" />
-        <img src="https://img.shields.io/github/forks/Areebanaeemsatti/Emotia?style=flat-square&color=ff00ff" />
-      </p>
-      <p>Multi-label emotion classifier that maps complex emotional nuances from free-form diary text entries.</p>
-      <p><code>NLP</code> <code>PyTorch</code> <code>Transformers</code> <code>Python</code></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Areebanaeemsatti/github-recommender">
+        <img src="./images/02.svg" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Areebanaeemsatti/Quotes">🔍 Quote Explorer</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Areebanaeemsatti/Quotes?style=flat-square&color=00ff41" />
-        <img src="https://img.shields.io/github/forks/Areebanaeemsatti/Quotes?style=flat-square&color=ff00ff" />
-      </p>
-      <p>Semantic search engine that finds matching context quotes using dense vector embeddings.</p>
-      <p><code>SBERT</code> <code>FAISS</code> <code>Vector Search</code> <code>Python</code></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">
+        <img src="./images/03.svg" width="100%" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Areebanaeemsatti/github-recommender">🕸️ GitHub Recommender</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Areebanaeemsatti/github-recommender?style=flat-square&color=00ff41" />
-        <img src="https://img.shields.io/github/forks/Areebanaeemsatti/github-recommender?style=flat-square&color=ff00ff" />
-      </p>
-      <p>Knowledge-graph recommendation engine mapping repository connections using LLM agents.</p>
-      <p><code>Neo4j</code> <code>LangChain</code> <code>LLMs</code> <code>Python</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Areebanaeemsatti/AI_developer_productivity">⚙️ Dev Productivity Predictor</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Areebanaeemsatti/AI_developer_productivity?style=flat-square&color=00ff41" />
-        <img src="https://img.shields.io/github/forks/Areebanaeemsatti/AI_developer_productivity?style=flat-square&color=ff00ff" />
-      </p>
-      <p>Predicts developer productivity trends from activity telemetry data, deployed via a interactive Gradio UI.</p>
-      <p><code>ML</code> <code>Gradio</code> <code>Scikit-Learn</code> <code>Python</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Areebanaeemsatti/Visualization_Orchestrator">📊 Visualization Orchestrator</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Areebanaeemsatti/Visualization_Orchestrator?style=flat-square&color=00ff41" />
-        <img src="https://img.shields.io/github/forks/Areebanaeemsatti/Visualization_Orchestrator?style=flat-square&color=ff00ff" />
-      </p>
-      <p>Multi-chart interactive dashboard tool for orchestrating and comparing complex datasets side by side.</p>
-      <p><code>Dash</code> <code>Plotly</code> <code>Python</code> <code>Data Viz</code></p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Areebanaeemsatti/Emotia">
+        <img src="./images/04.svg" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
-
 ---
 ## Tech Stack & Skills
 
