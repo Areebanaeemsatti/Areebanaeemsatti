@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="220" viewBox="0 0 500 220" fill="none">
+  <rect x="2" y="2" width="496" height="216" rx="16" fill="#0B0F17" stroke="#F43F5E" stroke-width="2"/>
+  
+  <!-- Content Left -->
+  <text x="24" y="44" fill="#FB7185" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700">Emotia: AI Diary</text>
+  <text x="24" y="74" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">Multi-label emotion classification engine that</text>
+  <text x="24" y="92" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">extracts and maps complex emotional states from</text>
+  <text x="24" y="110" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">unstructured free-form diary entries.</text>
+  
+  <!-- Badges -->
+  <rect x="24" y="152" width="48" height="26" rx="6" fill="#1E293B"/>
+  <text x="48" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">NLP</text>
+  
+  <rect x="80" y="152" width="62" height="26" rx="6" fill="#1E293B"/>
+  <text x="111" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">PyTorch</text>
+  
+  <rect x="150" y="152" width="88" height="26" rx="6" fill="#1E293B"/>
+  <text x="194" y="169" fill="#94A3B8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" text-anchor="middle">Transformers</text>
+
+  <!-- Illustration Right (Terminal/Text Window) -->
+  <g transform="translate(360, 45)">
+    <rect x="0" y="0" width="100" height="90" rx="8" fill="#1E1B4B" stroke="#4338CA" stroke-width="1.5"/>
+    <circle cx="12" cy="12" r="3" fill="#EF4444"/>
+    <circle cx="22" cy="12" r="3" fill="#F59E0B"/>
+    <circle cx="32" cy="12" r="3" fill="#10B981"/>
+    
+    <text x="10" y="35" fill="#FB7185" font-family="'Fira Code', monospace" font-size="9">> text = "..."</text>
+    <text x="10" y="52" fill="#A7F3D0" font-family="'Fira Code', monospace" font-size="9">> joy: 88%</text>
+    <text x="10" y="67" fill="#60A5FA" font-family="'Fira Code', monospace" font-size="9">> calm: 74%</text>
+    <line x1="10" y1="78" x2="25" y2="78" stroke="#FB7185" stroke-width="1.5"/>
+  </g>
+</svg>
